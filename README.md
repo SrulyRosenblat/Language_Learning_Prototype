@@ -1,4 +1,4 @@
-# Language_Learning_Prototype
+# Language Learning Prototype
 An anki deck with images, sound and text all AI generated. Seeded with Tatoeba.
 
 
